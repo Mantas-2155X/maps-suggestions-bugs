@@ -5,3 +5,9 @@ Maps:
 * [Released] [Sakura Room](https://www.patreon.com/posts/sakura-room-map-40208487)
 * [Early Access] [Classroom](https://www.patreon.com/posts/classroom-map-40423122)
 * [WIP] [Victorias Room](https://www.patreon.com/2155X)
+
+Suggestions: 
+Otaku apartment, 
+Japanese hotspring, 
+changing room, 
+back stairs
