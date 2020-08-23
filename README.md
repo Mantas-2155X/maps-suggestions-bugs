@@ -1,4 +1,4 @@
-# maps-issues
+# maps-suggestions-bugs
 
 ### Maps:
 * [Released] [Bedroom](https://www.patreon.com/posts/bedroom-map-39931982)
