@@ -4,8 +4,8 @@
 * [Released] [Bedroom](https://www.patreon.com/posts/bedroom-map-39931982)
 * [Released] [Sakura Room](https://www.patreon.com/posts/sakura-room-map-40208487)
 * [Released] [Classroom](https://www.patreon.com/posts/classroom-map-40423122)
-* [Early Access] [Victorias Room](https://www.patreon.com/posts/victorias-room-40671623)
-* [WIP] [Subway](https://www.patreon.com/)
+* [Released] [Victorias Room](https://www.patreon.com/posts/victorias-room-40671623)
+* [Early Access] [Subway](https://www.patreon.com/posts/40923210)
 
 ### Suggestions: 
 * Otaku apartment, 
