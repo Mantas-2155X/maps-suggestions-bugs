@@ -1,14 +1,14 @@
 # maps-suggestions-bugs
 
 ### Maps:
-* [Released] [Bedroom v1.0.2](https://www.patreon.com/posts/41376023)
-* [Released] [Sakura Room v1.0.2](https://www.patreon.com/posts/41376023)
-* [Released] [Classroom v1.0.0](https://www.patreon.com/posts/classroom-map-40423122)
-* [Released] [Victorias Room v1.0.0](https://www.patreon.com/posts/victorias-room-40671623)
-* [Released] [PH Subway v1.0.0](https://www.patreon.com/posts/40923210)
-* [Early Access] [Slums v1.0.0](https://www.patreon.com/posts/41203321)
-* [WIP] [PH Subway Night v1.0.0](https://www.patreon.com/2155X)
-* [WIP] [PH Bedroom v1.0.0](https://www.patreon.com/2155X)
+1. [Released] [Bedroom v1.0.2](https://www.patreon.com/posts/41376023)
+2. [Released] [Sakura Room v1.0.2](https://www.patreon.com/posts/41376023)
+3. [Released] [Classroom v1.0.0](https://www.patreon.com/posts/classroom-map-40423122)
+4. [Released] [Victorias Room v1.0.0](https://www.patreon.com/posts/victorias-room-40671623)
+5. [Released] [PH Subway v1.0.0](https://www.patreon.com/posts/40923210)
+6. [Released] [Slums v1.0.0](https://www.patreon.com/posts/41203321)
+7. [WIP] [PH Subway Night v1.0.0](https://www.patreon.com/2155X)
+8. [Early Access] [PH Bedroom v1.0.0](https://www.patreon.com/2155X)
 
 ### Suggestions: 
 * Otaku apartment, 
