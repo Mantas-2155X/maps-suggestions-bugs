@@ -9,7 +9,7 @@
 6. [Released] [Slums v1.0.0](https://www.patreon.com/posts/41203321)
 7. [WIP] [PH Subway Night v1.0.0](https://www.patreon.com/2155X)
 8. [Early Access] [PH Bedroom v1.0.0](https://www.patreon.com/posts/ph-bedroom-map-41564023)
-9. [WIP] [PH Akiko Room v1.0.0](https://www.patreon.com/2155X)
+9. [Early Access] [PH Akiko Room v1.0.0](https://www.patreon.com/posts/41936799)
 
 ### Suggestions: 
 * Otaku apartment, 
