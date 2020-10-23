@@ -11,7 +11,7 @@
 8. [Released] [PH Bedroom v1.0.1](https://www.patreon.com/posts/42919817)
 9. [Released] [PH Akiko Room v1.0.1](https://www.patreon.com/posts/42919817)
 10. [Released] [PH Entrance v1.0.1](https://www.patreon.com/posts/42919817)
-11. [Early Access] [PH Living Room v1.0.0](https://www.patreon.com/posts/42706668)
+11. [Released] [PH Living Room v1.0.0](https://www.patreon.com/posts/42706668)
 12. [Early Access] [Basement v1.0.0](https://www.patreon.com/posts/43070712)
 
 ### Suggestions: 
