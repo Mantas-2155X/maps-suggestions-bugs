@@ -12,7 +12,7 @@
 9. [Released] [PH Akiko Room v1.0.1](https://www.patreon.com/posts/42919817)
 10. [Released] [PH Entrance v1.0.1](https://www.patreon.com/posts/42919817)
 11. [Released] [PH Living Room v1.0.0](https://www.patreon.com/posts/42706668)
-12. [Early Access] [Basement v1.0.0](https://www.patreon.com/posts/43070712)
+12. [Released] [Basement v1.0.0](https://www.patreon.com/posts/43070712)
 13. [Early Access] [PC Alley v1.0.0](https://www.patreon.com/posts/43453170)
 
 ### Suggestions: 
