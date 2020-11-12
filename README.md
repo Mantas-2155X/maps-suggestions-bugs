@@ -13,7 +13,8 @@
 10. [Released] [PH Entrance v1.0.1](https://www.patreon.com/posts/42919817)
 11. [Released] [PH Living Room v1.0.0](https://www.patreon.com/posts/42706668)
 12. [Released] [Basement v1.0.0](https://www.patreon.com/posts/43070712)
-13. [Early Access] [PC Alley v1.0.0](https://www.patreon.com/posts/43453170)
+13. [Released] [PC Alley v1.0.0](https://www.patreon.com/posts/43453170)
+14. [Early Access] [PH Ritsuko Room v1.0.0](https://www.patreon.com/posts/43823342)
 
 ### Suggestions: 
 * Otaku apartment, 
