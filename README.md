@@ -15,6 +15,7 @@
 12. [Released] [Basement v1.0.0](https://www.patreon.com/posts/43070712)
 13. [Released] [PC Alley v1.0.0](https://www.patreon.com/posts/43453170)
 14. [Early Access] [PH Ritsuko Room v1.0.0](https://www.patreon.com/posts/43823342)
+15. [WIP] [PH Washroom v1.0.0](https://www.patreon.com/2155X)
 
 ### Suggestions: 
 * Otaku apartment, 
