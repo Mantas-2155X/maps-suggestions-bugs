@@ -17,6 +17,7 @@
 14. [Released] [PH Ritsuko Room v1.0.0](https://www.patreon.com/posts/43823342)
 15. [Released] [PH Washroom v1.0.0](https://www.patreon.com/posts/44181804)
 16. [Early Access] [PC Park v1.0.0](https://www.patreon.com/posts/44580371)
+16. [Early Access] [PC Western Room v1.0.0](https://www.patreon.com/posts/44958132)
 
 ### Suggestions: 
 * Otaku apartment, 
