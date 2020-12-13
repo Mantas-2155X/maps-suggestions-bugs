@@ -20,6 +20,7 @@
 16. [Early Access] [PC Western Room v1.0.0](https://www.patreon.com/posts/44958132)
 
 ### Suggestions: 
+* Pool,
 * Otaku apartment, 
 * Japanese hotspring, 
 * changing room, 
