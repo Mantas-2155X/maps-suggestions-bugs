@@ -18,6 +18,7 @@
 15. [Released] [PH Washroom v1.0.0](https://www.patreon.com/posts/44181804)
 16. [Released] [PC Park v1.0.0](https://www.patreon.com/posts/44580371)
 16. [Early Access] [PC Western Room v1.0.0](https://www.patreon.com/posts/44958132)
+16. [Early Access] [PC Japanese Room v1.0.0](https://www.patreon.com/posts/45323873)
 
 ### Suggestions: 
 * Pool,
