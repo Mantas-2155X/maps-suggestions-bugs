@@ -27,6 +27,7 @@
 * Japanese hotspring, 
 * changing room, 
 * back stairs,
-* bridge
+* bridge,
+* PH Outside
 
 ### [FAQ and Information](https://www.patreon.com/posts/40466751)
