@@ -19,6 +19,7 @@
 16. [Released] [PC Park v1.0.0](https://www.patreon.com/posts/44580371)
 16. [Released] [PC Western Room v1.0.0](https://www.patreon.com/posts/44958132)
 16. [Early Access] [PC Japanese Room v1.0.0](https://www.patreon.com/posts/45323873)
+16. [WIP] [Gamer Girl Room v1.0.0](https://www.patreon.com/2155X)
 
 ### Suggestions: 
 * Pool,
