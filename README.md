@@ -23,7 +23,6 @@
 
 ### Suggestions: 
 * Pool,
-* Otaku apartment, 
 * Japanese hotspring, 
 * changing room, 
 * back stairs,
