@@ -20,7 +20,7 @@
 16. [Released] [PC Western Room v1.0.0](https://www.patreon.com/posts/44958132)
 16. [Released] [PC Japanese Room v1.0.0](https://www.patreon.com/posts/45323873)
 16. [Released] [Gamer Girl Room v1.0.0](https://www.patreon.com/posts/girl-gamer-room-45679185)
-16. [Early Access] [PH Yard v1.0.0](https://www.patreon.com/posts/46122985)
+16. [Released] [PH Yard v1.0.0](https://www.patreon.com/posts/46122985)
 16. [Early Access] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
 
 ### Suggestions: 
