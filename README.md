@@ -21,7 +21,7 @@
 16. [Released] [PC Japanese Room v1.0.0](https://www.patreon.com/posts/45323873)
 16. [Released] [Gamer Girl Room v1.0.0](https://www.patreon.com/posts/girl-gamer-room-45679185)
 16. [Released] [PH Yard v1.0.0](https://www.patreon.com/posts/46122985)
-16. [Early Access] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
+16. [Released] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
 17. [Early Access] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
 
 ### Suggestions: 
