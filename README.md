@@ -22,7 +22,8 @@
 16. [Released] [Gamer Girl Room v1.0.0](https://www.patreon.com/posts/girl-gamer-room-45679185)
 16. [Released] [PH Yard v1.0.0](https://www.patreon.com/posts/46122985)
 16. [Released] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
-17. [Early Access] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
+16. [Released] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
+16. [WIP] [Colossal Ship v1.0.0](https://www.patreon.com/2155X)
 
 ### Suggestions: 
 * Pool,
