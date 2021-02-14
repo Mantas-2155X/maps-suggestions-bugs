@@ -24,6 +24,7 @@
 16. [Released] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
 16. [Released] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
 16. [Early Access] [Colonial Ship v1.0.0](https://www.patreon.com/posts/47414087)
+Preview for `Colonial Ship`: ![](https://i.imgur.com/oEvDZvM.jpg)
 
 ### Suggestions: 
 * Pool,
