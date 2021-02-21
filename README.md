@@ -23,10 +23,9 @@
 16. [Released] [PH Yard v1.0.0](https://www.patreon.com/posts/46122985)
 16. [Released] [Morgue Room v1.0.0](https://www.patreon.com/posts/46529413)
 16. [Released] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
-16. [Early Access] [Colonial Ship v1.0.0](https://www.patreon.com/posts/47414087)
+16. [Released] [Colonial Ship v1.0.0](https://www.patreon.com/posts/47414087)
 16. [Early Access] [Apartment v1.0.0](https://www.patreon.com/posts/47826052)
 
-Preview for `Colonial Ship`: ![](https://i.imgur.com/oEvDZvM.jpg)
 Preview for `Apartment`: ![](https://i.imgur.com/Nkw71MK.png)
 
 ### Suggestions: 
