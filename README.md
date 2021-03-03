@@ -25,7 +25,7 @@
 16. [Released] [Scottish Home v1.0.0](https://www.patreon.com/posts/46967526)
 16. [Released] [Colonial Ship v1.0.0](https://www.patreon.com/posts/47414087)
 16. [Early Access] [Apartment v1.0.0](https://www.patreon.com/posts/47826052)
-16. [WIP] [Hangar v1.0.0](https://www.patreon.com/2155X)
+16. [Early Access] [Hangar v1.0.0](https://www.patreon.com/posts/hangar-map-48281494)
 
 Preview for `Apartment`: ![](https://i.imgur.com/Nkw71MK.png)
 
