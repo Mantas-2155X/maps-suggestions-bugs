@@ -36,5 +36,6 @@ Preview for `Cabin`: ![](https://i.imgur.com/tZqWGEd.jpeg)
 * changing room, 
 * back stairs,
 * bridge,
+* strip/night club
 
 ### [FAQ and Information](https://www.patreon.com/posts/40466751)
