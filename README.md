@@ -27,10 +27,9 @@
 16. [Released] [Apartment v1.0.0](https://www.patreon.com/posts/47826052)
 16. [Released] [Hangar v1.0.0](https://www.patreon.com/posts/hangar-map-48281494)
 16. [Released] [Cabin v1.0.0](https://www.patreon.com/posts/cabin-map-48703986)
-16. [Early Access] [Kid Girl Room v1.0.0](https://www.patreon.com/posts/49104786)
+16. [Released] [Kid Girl Room v1.0.0](https://www.patreon.com/posts/49104786)
 16. [Early Access] [Kid Boy Room v1.0.0](https://www.patreon.com/posts/49538270)
 
-Preview for `Kid Girl Room`: ![](https://i.imgur.com/NXp1h0V.png)
 Preview for `Kid Boy Room`: ![](https://i.imgur.com/V0MEHir.png)
 
 ### Suggestions: 
