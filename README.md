@@ -31,9 +31,10 @@
 16. [Released] [Kid Boy Room v1.0.0](https://www.patreon.com/posts/49538270)
 16. [Released] [Interrogation Room v1.0.0](https://www.patreon.com/posts/49935637)
 16. [Released] [Modern Office v1.0.0](https://www.patreon.com/posts/50343576)
-16. [Early Access] [Hospital Lab v1.0.0](https://www.patreon.com/posts/50895041)
+16. [Released] [Hospital Lab v1.0.0](https://www.patreon.com/posts/50895041)
+16. [Early Access] [Kitchen v1.0.0](https://www.patreon.com/posts/51359528)
 
-Preview for `Hospital Lab`: ![](https://i.imgur.com/XAcRKsW.png)
+Preview for `Kitchen`: ![](https://i.imgur.com/5fEkFQQ.png)
 
 ### Suggestions: 
 * Pool,
