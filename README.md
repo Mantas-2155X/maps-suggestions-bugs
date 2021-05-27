@@ -32,9 +32,10 @@
 16. [Released] [Interrogation Room v1.0.0](https://www.patreon.com/posts/49935637)
 16. [Released] [Modern Office v1.0.0](https://www.patreon.com/posts/50343576)
 16. [Released] [Hospital Lab v1.0.0](https://www.patreon.com/posts/50895041)
-16. [Early Access] [Kitchen v1.0.0](https://www.patreon.com/posts/51359528)
+16. [Released] [Kitchen v1.0.0](https://www.patreon.com/posts/51359528)
+16. [Early Access] [Computer Classroom v1.0.0](https://www.patreon.com/posts/51758887)
 
-Preview for `Kitchen`: ![](https://i.imgur.com/5fEkFQQ.png)
+Preview for `Computer Classroom`: ![](https://i.imgur.com/ZJP0cZj.png)
 
 ### Suggestions: 
 * Pool,
